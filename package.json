@@ -1,0 +1,10 @@
+{
+  "name": "random-sentence-url",
+  "version": "0.0.1",
+  "description": "Yet another random-sentence-for-URLs generator.",
+  "main": "index.js",
+  "repository": "git@github.com:austinjp/random-sentence-url.git",
+  "author": "austinjp <austin.plunkett@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
