@@ -1,0 +1,3 @@
+[submodule "random-sentence-url-javascript"]
+	path = random-sentence-url-javascript
+	url = git@github.com:austinjp/random-sentence-url-javascript
