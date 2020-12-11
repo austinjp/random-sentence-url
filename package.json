@@ -6,5 +6,8 @@
   "repository": "git@github.com:austinjp/random-sentence-url.git",
   "author": "austinjp <austin.plunkett@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "random-sentence-url-javascript": "git+https://github.com/austinjp/random-sentence-url-javascript"
+  }
 }
